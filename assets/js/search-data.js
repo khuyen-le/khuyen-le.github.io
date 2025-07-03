@@ -400,8 +400,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-i-successfully-proposed-my-thesis-and-have-advanced-to-candidacy",
-          title: 'I successfully proposed my thesis, and have advanced to candidacy.',
+      },{id: "news-i-successfully-proposed-my-doctoral-thesis-and-advanced-to-candidacy-tada",
+          title: 'I successfully proposed my doctoral thesis, and advanced to candidacy :tada:',
           description: "",
           section: "News",},{id: "projects-ai-spy",
           title: 'AI Spy',
