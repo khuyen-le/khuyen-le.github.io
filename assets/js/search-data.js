@@ -405,27 +405,27 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ai-spy",
           title: 'AI Spy',
-          description: "A voice-based agent designed to make car drives more fun and educational through an &quot;I Spy&quot;-like game that introduces children to new words and concepts. I designed and prototyped the design for the conversational voice agent and conducted UX research with children 3-5yo.",
+          description: "A car-based voice agent that play &quot;I Spy&quot; with preschoolers to introduce them to new words and concepts on daily car rides.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-moon-amp-sky",
           title: 'Moon &amp;amp; Sky',
-          description: "​A narrative game that uses experiential learning and AR to engage children in local exploration and space science. I led the narrative design and rapid testing with children 7-10yo, designed the learning activities and contributed to AR implementation.",
+          description: "​A narrative game that uses experiential learning and AR to engage children in local exploration and space science.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-the-history-of-you",
           title: 'The History Of You',
-          description: "A website, interactive explainer and board game that explores intergenerational trauma. Our team members conducted interviews with participants from diverse cultural backgrounds, which we used to create an explainer in the form of a second-person interactive fiction taking place over 3 generations. We also designed and thoroughly playtested a board game that encourages healing from trauma through interpersonal connection. Both of which can be found on our accompanying website, which was implemented using Node.js and React.",
+          description: "A website, interactive explainer and board game that explores intergenerational trauma.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-design-metadata",
           title: 'Design Metadata',
-          description: "A tool for designers and innovators to improve their ideas through exploring and remixing existing ideas. By navigating existing ideas and viewing the uncovered NLP-powered semantic associations across important design dimensions (such as stakeholders and contexts), users are able to gauge potential competitors and inspirations. I conducted needfinding interviews, rapid-prototyped our interface through user studies and design iterations, and implemented the frontend (React, Node.js) and backend (MongoDB, Flask).",
+          description: "A tool for designers and innovators to improve their ideas through exploring and remixing existing ideas.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-aartvark",
           title: 'aartvark',
-          description: "An art gallery enhancement created in collaboration with low-visions users, that enhances art with musical cues that give viewers a preview of the emotional timbre of each work before approaching. As they near the painting, patrons will hear a short audio description that describes the most salient visual features of the piece. They can then choose to approach the painting even nearer to hear more about the piece with custom playback control. I conducted needfinding interviews, experiment prototype studies, and user studies with low-vision participants, and implemented the project with Arduino (hardware) and React Native (software). Code available upon request!",
+          description: "An art gallery enhancement for and in collaboration with low-visions users.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
