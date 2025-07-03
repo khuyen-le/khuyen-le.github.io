@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Other non-research projects.
+description: Design and HCI projects.
 nav: true
 nav_order: 4
 display_categories: false
