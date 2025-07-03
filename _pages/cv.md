@@ -1,6 +1,6 @@
 ---
-layout: cv_download #cv
-# permalink: /cv/
+layout: cv-download #cv
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 6
