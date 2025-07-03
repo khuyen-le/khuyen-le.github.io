@@ -2,6 +2,8 @@
 layout: page
 title: research activities
 permalink: /research/
+nav: true
+nav_order: 2
 ---
 
 ## Journal Articles

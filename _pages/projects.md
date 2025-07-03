@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Other non-research projects.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: false
 horizontal: false
 ---
