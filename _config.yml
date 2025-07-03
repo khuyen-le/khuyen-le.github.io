@@ -262,7 +262,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Le]
-  first_name: [Khuyen, Khuyen N., Khuyen Nha, K. N.]
+  first_name: [Khuyen, Khuyen N, Khuyen Nha, K. N.]
 
   style: apa
   locale: en
