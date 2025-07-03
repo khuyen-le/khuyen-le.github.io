@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 You can view a full list of my research activities [here](/research/)
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

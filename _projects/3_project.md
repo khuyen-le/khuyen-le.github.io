@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The History Of You
-description: A website, interactive explainer and board game that explores intergenerational trauma. 
+description: A website, interactive explainer and board game that explores intergenerational trauma.
 img: assets/img/projects/TheHistoryOfYou.png
 importance: 3
 category: hci

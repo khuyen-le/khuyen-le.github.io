@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully proposed my thesis, and have advanced to candidacy. 
+I successfully proposed my doctoral thesis, and advanced to candidacy :tada:
