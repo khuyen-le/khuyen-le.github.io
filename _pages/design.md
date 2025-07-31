@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: design
+permalink: /design/
 description: Design and HCI projects.
 nav: true
 nav_order: 4
