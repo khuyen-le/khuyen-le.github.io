@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-You can view a full list of my research activities on my [CV](/cv/)
+You can view a full list of my research activities on my [CV](/cv/).
 
 ## Journal Articles
 
@@ -25,5 +25,5 @@ You can view a full list of my research activities on my [CV](/cv/)
 
 ## Preprints & Others
 - **Le, K. N.**, & Barner, D. (2023). Syntax-Semantics Mappings of Superordinate Nouns: Mass-Count Syntax and Inferences about Functional Context. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/9mz3b)
-- **Le, K.** (2021). Is It Language or Is It Culture? Re-examining Cross-Cultural Similarity Judgments Using Lexical Co-Occurrence. Undergraduate honors thesis, Stanford University. Stanford Digital Repository. Available at: https://purl.stanford.edu/kg784gg3693 
+- **Le, K.** (2021). Is It Language or Is It Culture? Re-examining Cross-Cultural Similarity Judgments Using Lexical Co-Occurrence. Undergraduate honors thesis, Stanford University. Stanford Digital Repository. [paper](https://purl.stanford.edu/kg784gg3693)
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I present my work, _Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns_ at CogSci 2025 (Session: Language 3 | Time: 1pm-2:30pm | Location: Salon 3).
+I present my work, _Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns_ at CogSci 2025 (1pm-2:30pm @ Salon 3, Language 3).
