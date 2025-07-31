@@ -1,36 +1,28 @@
 ---
 layout: page
-title: research activities
+title: research
 permalink: /research/
 nav: true
 nav_order: 2
 ---
 
-## Journal Articles
+## Word learning and reasoning about speaker knowledge
+When someone uses a new word that we don’t know, we assume that the speaker knows what the word means, and that we can learn the word from the speaker. But what if the speaker is mistaken or ignorant about the words’ meaning? By noticing cues that show the speaker’s epistemological state, we can avoid learning the wrong meaning, or even narrow down the correct meaning for such words. I’m particularly interested in how preschool children who are developing their Theory of Mind abilities integrate reasoning about speaker knowledge to learn new words. This line of research dovetails into my larger interest in language as a convention between speakers and listeners, and what this means for language evolution and acquisition.
 
-- **Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/2py3a_v1).
-- **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
-- **Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. _Developmental Psychology, 61_(6), 1180–1195. [DOI](https://doi.org/10.1037/dev0001922)
-- **Le, K. N.**, & Barner, D. (2023). Syntax-Semantics Mappings of Superordinate Nouns: Mass-Count Syntax and Inferences about Functional Context. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/9mz3b)
-- Bohn, M., **Le, K. N.**, Peloquin, B., Köymen, B. & Frank, M.C. (2020). Children's interpretation of ambiguous pronouns based on prior discourse. _Developmental Science, 24_, e13049. [DOI](https://doi.org/10.1111/desc.1304)
+#### Papers & Conference Proceedings: 
+**Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. https://doi.org/10.31234/osf.io/2py3a_v1
 
-## Peer-reviewed Proceedings
+## Hierarchical nouns and pragmatic inferences
+Many objects can be referred to by nouns that are hierarchically-related. For example, the referent of this emoji 🐩 is a dog, a poodle, and an animal. Basic level terms like ‘dog’ are theorized to be privileged in naming and acquisition, because they provide a balance between informativeness and discriminability. My research focuses on the inferences adults and children make when, instead of basic level terms, subordinate terms (like ‘poodle’) and superordinate terms (like ‘animal’) are used. One line of research looks at how children and adults incorporate speaker knowledge to interpret hierarchical nouns. Another line of research looks at how context affects how people quantify mass and count superordinate nouns (‘furniture’ / ‘tools’). 
 
-- **Le, K. N.**, Bale, A. C., & Barner, D. (2025). Object-mass nouns specify individuation lexically: Evidence from English and French. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
-- **Le, K. N.**, Kwon, C., Wu, M., & Barner, D. (2024). ‘Five’ is the number of bunnies and hats: Children’s understanding of cardinal extension and exact number. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 46). [paper](https://escholarship.org/uc/item/8293g6hd).
-- Duan, Y., **Le, K. N.** & Lupyan, G. (2024). Differences in distributional structure can lead to differences in similarity biases. In _The Evolution of Language: Proceedings of the 15th International Conference (EVOLANG XV)_ (pp. 134-141). [paper](https://doi.org/10.17617/2.3587960).
-- Cheng, A. Y., Guo, M., Ran, M., Ranasaria, A., Sharma, A., Xie, A., **Le, K. N.**, … & Landay, J. A. (2024). Scientific and Fantastical: Creating Immersive, Culturally Relevant Learning Experiences with Augmented Reality and Large Language Models. In _CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems_. [paper](https://doi.org/10.1145/3613904.3642041)
-- **Le, K. N.**, Gao, S., Frank, M. C., & Carstensen, A. (2023). Re-examining cross-cultural similarity judgments using language statistics. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 45). [paper](https://escholarship.org/uc/item/2gf8p2pn)
+#### Papers & Conference Proceedings: 
+**Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. https://doi.org/10.31234/osf.io/68amw_v1
+**Le, K. N.**, Bale, A. C., & Barner, D. (2025). Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47). https://escholarship.org/uc/item/4nf1r7w9 
 
-## Conference Talks
 
-- **Le, K. N.**, & Barner, D. (2025). _Animal but not Dog: Children’s computation of implicatures in hierarchically-structured categories_. Talk at the 1st Southern California Meeting for Investigations in Developmental Science, San Diego, California.
-- **Le, K. N.**, Bale, A., & Barner, D. (2024). _Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns_. Talk at the 7th California Meeting of Psycholinguistics, San Diego, California.
-- **Le, K. N.**, & Barner, D. (2024). _“Let’s call this a dax!” Children and adults consider speaker knowledge when reasoning about novel labels_. Talk at the 49th Boston University Conference on Language Development, Boston, Massachusetts.
-- Xiaotong, T.X., **Le, K.**, Cha, C., Fleet, S., & Dow, S. (2021). _Crowdsourcing Exploratory Cues for Idea Browsing and Inspiration Discovery_. Talk at the 9th AAAI Conference on Human Computation and Crowdsourcing, virtual.
+## Children’s exact number acquisition
+While children as young as 2 years old are able to recite the count list, there is a protracted developmental trajectory for children to learn many properties of number. For example, only as they get older do children understand that ‘five’ refers to exactly five items, that sets of five items are equinumerous, and that equinumerous sets can be formed by placing items in 1-to-1 relationship to each other. My research focuses on children’s acquisition of exact number and equal numerosity, and predictors of individual variability in these abilities. 
 
-## Conference Presentations
-
-- **Le, K. N.**, Parkinson-Coombs, O., Núñez, R., & Barner, D. (2024). _Does eight equal eight? The role of counting knowledge in children’s understanding of exact equality_. Poster presented at the 7th Mathematical Cognition and Learning Society Conference, Washington, D.C. [poster](/assets/pdf/posters/MCLS2024_poster.pdf)
-- **Le, K. N.**, & Barner, D. (2024). _‘Five’ is the number of bunnies and hats: Children’s understanding of cardinal extension and exact number_. Poster presented at the 2024 Conference of the Cognitive Development Society, Pasadena, California. [poster](/assets/pdf/posters/CDS2024_poster.pdf)
-- **Le, K.**, Carstensen, A., and Frank, M.C. (2021). _Re-Examining Cross-Cultural Similarity Judgments Using Lexical Co-Occurrences_. Poster presented at the 43rd Meeting of the Cognitive Science Society, virtual. [poster](/assets/pdf/posters/CogSci2021_poster.pdf)
+#### Papers & Conference Proceedings: 
+**Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. Developmental Psychology, 61(6), 1180–1195. https://doi.org/10.1037/dev0001922
+**Le, K. N.**, Kwon, C., Wu, M., & Barner, D. (2024). ‘Five’ is the number of bunnies and hats: Children’s understanding of cardinal extension and exact number. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46). https://escholarship.org/uc/item/8293g6hd.
