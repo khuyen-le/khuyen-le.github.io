@@ -403,7 +403,7 @@ ninja.data = [{
       },{id: "news-i-successfully-proposed-my-doctoral-thesis-and-advanced-to-candidacy-tada",
           title: 'I successfully proposed my doctoral thesis, and advanced to candidacy :tada:',
           description: "",
-          section: "News",},{id: "news-i-present-my-work-who-has-more-furniture-context-effects-on-the-quantification-of-mass-vs-count-superordinate-nouns-at-cogsci-2025-session-language-3-time-1pm-2-30pm-location-salon-3",
+          section: "News",},{id: "news-i-present-my-work-who-has-more-furniture-context-effects-on-the-quantification-of-mass-vs-count-superordinate-nouns-at-cogsci-2025-1pm-2-30pm-salon-3-language-3",
           title: 'I present my work, Who Has More Furniture? Context Effects on the Quantification...',
           description: "",
           section: "News",},{id: "projects-ai-spy",
