@@ -9,14 +9,13 @@ nav_order: 3
 You can view a full list of my research activities on my [CV](/cv/).
 
 ## Journal Articles
-
+- **Le, K. N.**, Zettersten, M., & Barner, D. (in prep). Children and adults monitor speaker ignorance to learn words cross-situationally.
 - **Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/2py3a_v1).
 - **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
 - **Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. _Developmental Psychology, 61_(6), 1180–1195. [DOI](https://doi.org/10.1037/dev0001922)
 - Bohn, M., **Le, K. N.**, Peloquin, B., Köymen, B. & Frank, M.C. (2020). Children's interpretation of ambiguous pronouns based on prior discourse. _Developmental Science, 24_, e13049. [DOI](https://doi.org/10.1111/desc.1304)
 
 ## Peer-reviewed Proceedings
-
 - **Le, K. N.**, Bale, A. C., & Barner, D. (2025). Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47). [paper](https://escholarship.org/uc/item/4nf1r7w9)
 - **Le, K. N.**, Kwon, C., Wu, M., & Barner, D. (2024). ‘Five’ is the number of bunnies and hats: Children’s understanding of cardinal extension and exact number. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 46). [paper](https://escholarship.org/uc/item/8293g6hd)
 - Duan, Y., **Le, K. N.** & Lupyan, G. (2024). Differences in distributional structure can lead to differences in similarity biases. In _The Evolution of Language: Proceedings of the 15th International Conference (EVOLANG XV)_ (pp. 134-141). [paper](https://doi.org/10.17617/2.3587960)
