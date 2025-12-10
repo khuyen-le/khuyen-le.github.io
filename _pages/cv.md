@@ -42,6 +42,6 @@ cv_pdf: dec_10_cv.pdf # you can also use external links here
   src="/assets/pdf/dec_10_cv.pdf#toolbar=0&navpanes=0&scrollbar=0" 
   type="application/pdf"
   width="70%"
-  height="500vh"
+  height="700vh"
   style="display:block; margin: 0 auto; border:none;"
 >
