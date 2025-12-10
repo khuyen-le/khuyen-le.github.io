@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 permalink: /cv/
 title: cv
 nav: true
@@ -13,4 +13,4 @@ nav_order: 6
       src="/assets/pdf/dec_10_cv.pdf" 
       type="application/pdf" 
       class="pdf-viewer"
-    />
+/>

@@ -12,7 +12,7 @@ You can view a full list of my research activities on my [CV](/cv/).
 - **Le, K. N.**, Zettersten, M., & Barner, D. (in prep). Children and adults monitor speaker ignorance to learn words cross-situationally.
 - **Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/2py3a_v1).
 - **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
-- **Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. _Developmental Psychology, 61_(6), 1180–1195. [publisher](https://doi.org/10.1037/dev0001922) | [pdf](/assets/pdf/papers/Le_Cardinal_Extension_2025.pdf/)
+- **Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. _Developmental Psychology, 61_(6), 1180–1195. [publisher](https://doi.org/10.1037/dev0001922), [pdf](/assets/pdf/papers/Le_Cardinal_Extension_2025.pdf/)
 - Bohn, M., **Le, K. N.**, Peloquin, B., Köymen, B. & Frank, M.C. (2020). Children's interpretation of ambiguous pronouns based on prior discourse. _Developmental Science, 24_, e13049. [paper](https://doi.org/10.1111/desc.13049)
 
 ## Peer-reviewed Proceedings
@@ -23,6 +23,6 @@ You can view a full list of my research activities on my [CV](/cv/).
 - **Le, K. N.**, Gao, S., Frank, M. C., & Carstensen, A. (2023). Re-examining cross-cultural similarity judgments using language statistics. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 45). [paper](https://escholarship.org/uc/item/2gf8p2pn)
 
 ## Preprints & Others
-- **Le, K. N.**, & Barner, D. (2023). Syntax-Semantics Mappings of Superordinate Nouns: Mass-Count Syntax and Inferences about Functional Context. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/9mz3b)
+- **Le, K. N.**, & Barner, D. (2023). Syntax-Semantics Mappings of Superordinate Nouns: Mass-Count Syntax and Inferences about Functional Context. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/9mz3b)
 - **Le, K.** (2021). Is It Language or Is It Culture? Re-examining Cross-Cultural Similarity Judgments Using Lexical Co-Occurrence. Undergraduate honors thesis, Stanford University. Stanford Digital Repository. [paper](https://purl.stanford.edu/kg784gg3693)
 
