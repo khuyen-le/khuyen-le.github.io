@@ -13,7 +13,7 @@ You can view a full list of my research activities on my [CV](/cv/).
 - **Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/2py3a_v1).
 - **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
 - **Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. _Developmental Psychology, 61_(6), 1180–1195. [DOI](https://doi.org/10.1037/dev0001922)
-- Bohn, M., **Le, K. N.**, Peloquin, B., Köymen, B. & Frank, M.C. (2020). Children's interpretation of ambiguous pronouns based on prior discourse. _Developmental Science, 24_, e13049. [DOI](https://doi.org/10.1111/desc.1304)
+- Bohn, M., **Le, K. N.**, Peloquin, B., Köymen, B. & Frank, M.C. (2020). Children's interpretation of ambiguous pronouns based on prior discourse. _Developmental Science, 24_, e13049. [DOI](https://doi.org/10.1111/desc.13049)
 
 ## Peer-reviewed Proceedings
 - **Le, K. N.**, Bale, A. C., & Barner, D. (2025). Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47). [paper](https://escholarship.org/uc/item/4nf1r7w9)

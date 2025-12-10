@@ -6,6 +6,8 @@ nav: true
 nav_order: 2
 ---
 
+Humans develop language and other abstract systems (such as number) to make sense of the world. These systems help us categorize phenomena, summarize over continuous data, and communicate despite individual differences. How do humans conventionalize these systems? What cues do humans use to guide their acquisition? Once learned, how and to what extent do they influence our conceptualization of the world? I explore these broad questions through case studies in word learning and number acquisition.
+
 ## 1. Word learning and reasoning about speaker knowledge
 When someone uses a new word that we don’t know, we assume that the speaker knows what the word means, and that we can learn the word from the speaker. But what if the speaker is mistaken or ignorant about the words’ meaning? By noticing cues that show the speaker’s epistemological state, we can avoid learning the wrong meaning, or even narrow down the correct meaning for such words. I’m particularly interested in how preschool children who are developing their Theory of Mind abilities integrate reasoning about speaker knowledge to learn new words. This line of research dovetails into my larger interest in language as a convention between speakers and listeners, and what this means for language evolution and acquisition.
 
@@ -14,7 +16,7 @@ When someone uses a new word that we don’t know, we assume that the speaker kn
 - **Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/2py3a_v1)
 
 ## 2. Hierarchical nouns and pragmatic inferences
-Many objects can be referred to by nouns that are hierarchically-related. For example, the referent of this emoji 🐩 is a dog, a poodle, and an animal. Basic level terms like ‘dog’ are theorized to be privileged in naming and acquisition, because they provide a balance between informativeness and discriminability. My research focuses on the inferences adults and children make when, instead of basic level terms, subordinate terms (like ‘poodle’) and superordinate terms (like ‘animal’) are used. One line of research looks at how children and adults incorporate speaker knowledge to interpret hierarchical nouns. Another line of research looks at how context affects how people quantify mass and count superordinate nouns (‘furniture’ / ‘tools’). 
+Many objects can be referred to by nouns that are hierarchically related. For example, the referent of this emoji 🐩 is a dog, a poodle, and an animal. Basic level terms like ‘dog’ are theorized to be privileged in naming and acquisition, because they provide a balance between informativeness and discriminability. My research focuses on the inferences adults and children make when, instead of basic level terms, subordinate terms (like ‘poodle’) and superordinate terms (like ‘animal’) are used. One line of research looks at how children and adults incorporate speaker knowledge to interpret hierarchical nouns. Another line of research looks at how context affects how people quantify mass and count superordinate nouns (‘furniture’ / ‘tools’). 
 
 ##### Papers & Conference Proceedings: 
 - **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [Preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
