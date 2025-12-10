@@ -20,6 +20,6 @@ nav_order: 6
   src="/assets/pdf/dec_10_cv.pdf#toolbar=0&navpanes=0&scrollbar=0" 
   type="application/pdf"
   width="70%"
-  height="90vh"
+  height="500vh"
   style="display:block; margin: 0 auto; border:none;"
 >

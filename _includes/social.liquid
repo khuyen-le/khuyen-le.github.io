@@ -100,7 +100,7 @@
             <image xlink:href="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}" />
           </svg>
         {% else %}
-          <img width="50%"
+          <img width="50%"ai
             src="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
             alt="{{ social[1].title }}"
           >
