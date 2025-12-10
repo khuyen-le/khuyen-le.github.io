@@ -19,7 +19,7 @@ When someone uses a new word that we don’t know, we assume that the speaker kn
 Many objects can be referred to by nouns that are hierarchically related. For example, the referent of this emoji 🐩 is a dog, a poodle, and an animal. Basic level terms like ‘dog’ are theorized to be privileged in naming and acquisition, because they provide a balance between informativeness and discriminability. My research focuses on the inferences adults and children make when, instead of basic level terms, subordinate terms (like ‘poodle’) and superordinate terms (like ‘animal’) are used. One line of research looks at how children and adults incorporate speaker knowledge to interpret hierarchical nouns. Another line of research looks at how context affects how people quantify mass and count superordinate nouns (‘furniture’ / ‘tools’). 
 
 ##### Papers & Conference Proceedings: 
-- **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [prerint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
+- **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
 - **Le, K. N.**, Bale, A. C., & Barner, D. (2025). Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47). [paper](https://escholarship.org/uc/item/4nf1r7w9)
 
 ## 3. Children’s exact number acquisition
