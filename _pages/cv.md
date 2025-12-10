@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /cv/
 title: cv
 description: Updated Dec 10, 2025.
