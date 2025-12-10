@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>PhD Candidate, UC San Diego</i> | khuyenle@ucsd.edu
+subtitle: <i>PhD Candidate, UC San Diego</i> | khuyenle 'at' ucsd 'dot' edu
 
 profile:
   align: right
@@ -27,3 +27,5 @@ latest_posts:
 I'm a PhD candidate at the Psychology department of UC San Diego, working with Dr. David Barner in the [Language & Development Lab](http://ladlab.ucsd.edu). My research explores children's acquisition and understanding of abstract concepts such as superordinates and number, and how children's developing ability to reason about other people supports language and conceptual development. More generally, I'm interested in how linguistic and non-linguistic communicative conventions are created and acquired. I take an interdisciplinary approach to my research, drawing on psychology, cognitive science, linguistics, philosophy, and computational modelling.
 
 I completed my M.S. in Computer Science (specializing in Human-Computer Interaction), my B.S. in Symbolic Systems (specializing in Cognitive Science) and my B.A. in Comparative Literature at Stanford University.
+
+Find me on: [Bluesky](https://bsky.app/profile/knle.bsky.social) \| [Google Scholar](https://scholar.google.com/citations?user=aUbbW_wAAAAJ&hl=en) \| [Github](https://github.com/khuyen-le)
