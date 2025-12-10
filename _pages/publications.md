@@ -5,7 +5,6 @@ permalink: /publications/
 nav: true
 nav_order: 3
 ---
-
 You can view a full list of my research activities on my [CV](/cv/).
 
 ## Journal Articles

@@ -5,7 +5,6 @@ permalink: /research/
 nav: true
 nav_order: 2
 ---
-
 Humans develop language and other abstract systems (such as number) to make sense of the world. These systems help us categorize phenomena, summarize over continuous data, and communicate despite individual differences. How do humans conventionalize these systems? What cues do we use to guide their acquisition? Once learned, how and to what extent do they influence our conceptualization of the world? I explore these broad questions through case studies in word learning and number acquisition.
 
 ## 1. Word learning and reasoning about speaker knowledge
