@@ -20,7 +20,6 @@ Many objects can be referred to by nouns that are hierarchically related. For ex
 ##### Papers & Conference Proceedings: 
 - **Le, K. N.**, Kwon, C. & Barner, D. (2026). Animal but not dog: Children’s computation of implicatures for hierarchically organized categories. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 48).
 - **Le, K. N.**, Bale, A. C., & Barner, D. (forthcoming). Object-mass nouns specify individuation lexically: Evidence from English and French. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
-- **Le, K. N.**, Bale, A. C., & Barner, D. (2025). Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47). [paper](https://escholarship.org/uc/item/4nf1r7w9)
 
 ## 3. Children’s exact number acquisition
 While children as young as 2 years old are able to recite the count list, there is a protracted developmental trajectory for children to learn many properties of number. For example, only as they get older do children understand that ‘five’ refers to exactly five items, that sets of five items are equinumerous, and that equinumerous sets can be formed by placing items in 1-to-1 relationship to each other. My research focuses on children’s acquisition of exact number and equal numerosity, and predictors of individual variability in these abilities. 
