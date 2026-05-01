@@ -12,13 +12,14 @@ When someone uses a new word that we don’t know, we assume that the speaker kn
 
 ##### Papers & Conference Proceedings: 
 - **Le, K. N.**, Zettersten, M., & Barner, D. (in prep). Children and adults monitor speaker ignorance to learn words cross-situationally.
-- **Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/2py3a_v1)
+- **Le, K. N.**, & Barner, D. (2026). The role of epistemic reasoning in mutual exclusivity inferences. _Journal of Experimental Child Psychology, 266_, 106487. [publisher](https://doi.org/10.1016/j.jecp.2026.106487) \| [pdf](/assets/pdf/papers/LeBarner_Mutual_Exclusivity_2026.pdf)
 
 ## 2. Hierarchical nouns and pragmatic inferences
 Many objects can be referred to by nouns that are hierarchically related. For example, the referent of this emoji 🐩 is a dog, a poodle, and an animal. Basic level terms like ‘dog’ are theorized to be privileged in naming and acquisition, because they provide a balance between informativeness and discriminability. My research focuses on the inferences adults and children make when, instead of basic level terms, subordinate terms (like ‘poodle’) and superordinate terms (like ‘animal’) are used. One line of research looks at how children and adults incorporate speaker knowledge to interpret hierarchical nouns. Another line of research looks at how context affects how people quantify mass and count superordinate nouns (‘furniture’ / ‘tools’). 
 
 ##### Papers & Conference Proceedings: 
-- **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
+- **Le, K. N.**, Kwon, C. & Barner, D. (2026). Animal but not dog: Children’s computation of implicatures for hierarchically organized categories. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 48).
+- **Le, K. N.**, Bale, A. C., & Barner, D. (forthcoming). Object-mass nouns specify individuation lexically: Evidence from English and French. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
 - **Le, K. N.**, Bale, A. C., & Barner, D. (2025). Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47). [paper](https://escholarship.org/uc/item/4nf1r7w9)
 
 ## 3. Children’s exact number acquisition
