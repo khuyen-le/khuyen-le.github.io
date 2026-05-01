@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Updated Dec 10, 2025.",
+          description: "Updated May 1, 2026.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -46,8 +46,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-present-my-poster-animal-but-not-dog-children-s-computation-of-implicatures-for-hierarchically-organized-categories-at-bucld-2025-3-30pm-5pm-poster-session-2",
           title: 'I present my poster, Animal but not dog: Children’s computation of implicatures for...',
           description: "",
-          section: "News",},{id: "news-my-paper-what-speakers-don-t-know-children-incorporate-ignorance-statements-to-learn-words-cross-situationally-is-accepted-as-an-oral-presentation-at-cds-2026",
-          title: 'My paper, What speakers don’t know: Children incorporate ignorance statements to learn words...',
+          section: "News",},{id: "news-i-present-my-paper-what-speakers-don-t-know-children-incorporate-ignorance-statements-to-learn-words-cross-situationally-at-cds-2026-2-30pm-4pm-individual-papers-session-o3-language-learning-amp-amp-communication",
+          title: 'I present my paper, What speakers don’t know: Children incorporate ignorance statements to...',
           description: "",
           section: "News",},{id: "projects-ai-spy",
           title: 'AI Spy',
