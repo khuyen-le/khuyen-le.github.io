@@ -19,11 +19,12 @@ Many objects can be referred to by nouns that are hierarchically related. For ex
 
 ##### Papers & Conference Proceedings: 
 - **Le, K. N.**, Kwon, C. & Barner, D. (2026). Animal but not dog: Children’s computation of implicatures for hierarchically organized categories. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 48).
-- **Le, K. N.**, Bale, A. C., & Barner, D. (forthcoming). Object-mass nouns specify individuation lexically: Evidence from English and French. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
+- **Le, K. N.**, Bale, A. C., & Barner, D. (2026). Object-mass nouns specify individuation lexically: Evidence from English and French. _Glossa: a journal of general linguistics, 11_(1). [publisher](https://doi.org/10.16995/glossa.26380) \| [pdf](/assets/pdf/papers/Le_MassCount_2026.pdf)
 
 ## 3. Children’s exact number acquisition
 While children as young as 2 years old are able to recite the count list, there is a protracted developmental trajectory for children to learn many properties of number. For example, only as they get older do children understand that ‘five’ refers to exactly five items, that sets of five items are equinumerous, and that equinumerous sets can be formed by placing items in 1-to-1 relationship to each other. My research focuses on children’s acquisition of exact number and equal numerosity, and predictors of individual variability in these abilities. 
 
 ##### Papers & Conference Proceedings: 
+- **Le, K. N.**, Liu, J., Hyde, D. C. & Barner, D. (under review). A test of the digital Give-a-Number task. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/5xstq_v1)
 - **Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. _Developmental Psychology, 61_(6), 1180–1195. [publisher](https://doi.org/10.1037/dev0001922) \| [pdf](/assets/pdf/papers/Le_Cardinal_Extension_2025.pdf)
 - **Le, K. N.**, Kwon, C., Wu, M., & Barner, D. (2024). ‘Five’ is the number of bunnies and hats: Children’s understanding of cardinal extension and exact number. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 46). [paper](https://escholarship.org/uc/item/8293g6hd)

@@ -9,8 +9,9 @@ You can view a full list of my research activities on my [CV](/cv/).
 
 ## Journal Articles
 - **Le, K. N.**, Zettersten, M., & Barner, D. (in prep). Children and adults monitor speaker ignorance to learn words cross-situationally.
-- **Le, K. N.**, & Barner, D. (under review). The role of epistemic reasoning in mutual exclusivity inferences. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/2py3a_v1)
-- **Le, K. N.**, Bale, A. C., & Barner, D. (under review). Object-mass nouns specify individuation lexically: Evidence from English and French. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/68amw_v1)
+- **Le, K. N.**, Liu, J., Hyde, D. C. & Barner, D. (under review). A test of the digital Give-a-Number task. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/5xstq_v1)
+- **Le, K. N.**, Bale, A. C., & Barner, D. (2026). Object-mass nouns specify individuation lexically: Evidence from English and French. _Glossa: a journal of general linguistics, 11_(1). [publisher](https://doi.org/10.16995/glossa.26380) \| [pdf](/assets/pdf/papers/Le_MassCount_2026.pdf)
+- **Le, K. N.**, & Barner, D. (2026). The role of epistemic reasoning in mutual exclusivity inferences. _Journal of Experimental Child Psychology, 266_, 106487. [publisher](https://doi.org/10.1016/j.jecp.2026.106487) \| [pdf](/assets/pdf/papers/LeBarner_Mutual_Exclusivity_2026.pdf)
 - **Le, K. N.**, Schneider, R. M., & Barner, D. (2025). The Development of Cardinal Extension: From Counting to Exact Equality. _Developmental Psychology, 61_(6), 1180–1195. [publisher](https://doi.org/10.1037/dev0001922) \| [pdf](/assets/pdf/papers/Le_Cardinal_Extension_2025.pdf)
 - Bohn, M., **Le, K. N.**, Peloquin, B., Köymen, B. & Frank, M.C. (2020). Children's interpretation of ambiguous pronouns based on prior discourse. _Developmental Science, 24_, e13049. [paper](https://doi.org/10.1111/desc.13049)
 
