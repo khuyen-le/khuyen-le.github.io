@@ -16,6 +16,6 @@ You can view a full list of my research activities [here](/research/)
 {% include bib_search.liquid %}
 
 <div class="publications">
-{% bibliography %} 
+{% bibliography %}
 
 </div>

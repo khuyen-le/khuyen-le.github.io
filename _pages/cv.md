@@ -10,9 +10,10 @@ cv_pdf: cv_2026.pdf # you can also use external links here
 # toc:
 #   sidebar: left
 ---
-<!-- <embed 
-      src="/assets/pdf/dec_10_cv.pdf" 
-      type="application/pdf" 
+
+<!-- <embed
+      src="/assets/pdf/dec_10_cv.pdf"
+      type="application/pdf"
       class="pdf-viewer"
 /> -->
 <header class="post-header">
@@ -38,10 +39,12 @@ cv_pdf: cv_2026.pdf # you can also use external links here
       {% endif %}
 </HEADER>
 
-<embed 
-  src="/assets/pdf/cv_2026.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+<!-- prettier-ignore -->
+<embed
+  src="/assets/pdf/cv_2026.pdf#toolbar=0&navpanes=0&scrollbar=0"
   type="application/pdf"
   width="70%"
   height="700vh"
   style="display:block; margin: 0 auto; border:none;"
+
 >

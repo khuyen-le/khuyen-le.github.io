@@ -5,9 +5,11 @@ permalink: /publications/
 nav: true
 nav_order: 3
 ---
+
 You can view a full list of my research activities on my [CV](/cv/).
 
 ## Journal Articles
+
 - **Le, K. N.**, Zettersten, M., & Barner, D. (under review). Children and adults monitor speaker ignorance to learn words cross-situationally.
 - **Le, K. N.**, Liu, J., Hyde, D. C. & Barner, D. (under review). A test of the digital Give-a-Number task. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/5xstq_v1)
 - **Le, K. N.**, Bale, A. C., & Barner, D. (2026). Object-mass nouns specify individuation lexically: Evidence from English and French. _Glossa: a journal of general linguistics, 11_(1). [publisher](https://doi.org/10.16995/glossa.26380) \| [pdf](/assets/pdf/papers/Le_MassCount_2026.pdf)
@@ -16,6 +18,7 @@ You can view a full list of my research activities on my [CV](/cv/).
 - Bohn, M., **Le, K. N.**, Peloquin, B., Köymen, B. & Frank, M.C. (2020). Children's interpretation of ambiguous pronouns based on prior discourse. _Developmental Science, 24_, e13049. [paper](https://doi.org/10.1111/desc.13049)
 
 ## Peer-reviewed Proceedings
+
 - **Le, K. N.**, Bale, A. C., & Barner, D. (2025). Who Has More Furniture? Context Effects on the Quantification of Mass vs. Count Superordinate Nouns. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47). [paper](https://escholarship.org/uc/item/4nf1r7w9)
 - **Le, K. N.**, Kwon, C., Wu, M., & Barner, D. (2024). ‘Five’ is the number of bunnies and hats: Children’s understanding of cardinal extension and exact number. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 46). [paper](https://escholarship.org/uc/item/8293g6hd)
 - Duan, Y., **Le, K. N.** & Lupyan, G. (2024). Differences in distributional structure can lead to differences in similarity biases. In _The Evolution of Language: Proceedings of the 15th International Conference (EVOLANG XV)_ (pp. 134-141). [paper](https://doi.org/10.17617/2.3587960)
@@ -23,6 +26,6 @@ You can view a full list of my research activities on my [CV](/cv/).
 - **Le, K. N.**, Gao, S., Frank, M. C., & Carstensen, A. (2023). Re-examining cross-cultural similarity judgments using language statistics. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 45). [paper](https://escholarship.org/uc/item/2gf8p2pn)
 
 ## Preprints & Others
+
 - **Le, K. N.**, & Barner, D. (2023). Syntax-Semantics Mappings of Superordinate Nouns: Mass-Count Syntax and Inferences about Functional Context. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/9mz3b)
 - **Le, K.** (2021). Is It Language or Is It Culture? Re-examining Cross-Cultural Similarity Judgments Using Lexical Co-Occurrence. Undergraduate honors thesis, Stanford University. Stanford Digital Repository. [thesis](https://purl.stanford.edu/kg784gg3693)
-
