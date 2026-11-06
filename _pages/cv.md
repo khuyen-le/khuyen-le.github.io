@@ -2,7 +2,7 @@
 layout: default
 permalink: /cv/
 title: cv
-description: Updated May 1, 2026.
+description: Updated Nov 6, 2026.
 nav: true
 nav_order: 6
 cv_pdf: cv_2026.pdf # you can also use external links here
