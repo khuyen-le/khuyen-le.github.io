@@ -11,7 +11,7 @@ Humans develop language and other abstract systems (such as number) to make sens
 When someone uses a new word that we don’t know, we assume that the speaker knows what the word means, and that we can learn the word from the speaker. But what if the speaker is mistaken or ignorant about the words’ meaning? By noticing cues that show the speaker’s epistemological state, we can avoid learning the wrong meaning, or even narrow down the correct meaning for such words. I’m particularly interested in how preschool children who are developing their Theory of Mind abilities integrate reasoning about speaker knowledge to learn new words. This line of research dovetails into my larger interest in language as a convention between speakers and listeners, and what this means for language evolution and acquisition.
 
 ##### Papers & Conference Proceedings: 
-- **Le, K. N.**, Zettersten, M., & Barner, D. (in prep). Children and adults monitor speaker ignorance to learn words cross-situationally.
+- **Le, K. N.**, Zettersten, M., & Barner, D. (under review). Children and adults monitor speaker ignorance to learn words cross-situationally.
 - **Le, K. N.**, & Barner, D. (2026). The role of epistemic reasoning in mutual exclusivity inferences. _Journal of Experimental Child Psychology, 266_, 106487. [publisher](https://doi.org/10.1016/j.jecp.2026.106487) \| [pdf](/assets/pdf/papers/LeBarner_Mutual_Exclusivity_2026.pdf)
 
 ## 2. Hierarchical nouns and pragmatic inferences

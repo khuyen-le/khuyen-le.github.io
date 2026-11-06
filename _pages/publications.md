@@ -8,7 +8,7 @@ nav_order: 3
 You can view a full list of my research activities on my [CV](/cv/).
 
 ## Journal Articles
-- **Le, K. N.**, Zettersten, M., & Barner, D. (in prep). Children and adults monitor speaker ignorance to learn words cross-situationally.
+- **Le, K. N.**, Zettersten, M., & Barner, D. (under review). Children and adults monitor speaker ignorance to learn words cross-situationally.
 - **Le, K. N.**, Liu, J., Hyde, D. C. & Barner, D. (under review). A test of the digital Give-a-Number task. [preprint on PsyArxiv](https://doi.org/10.31234/osf.io/5xstq_v1)
 - **Le, K. N.**, Bale, A. C., & Barner, D. (2026). Object-mass nouns specify individuation lexically: Evidence from English and French. _Glossa: a journal of general linguistics, 11_(1). [publisher](https://doi.org/10.16995/glossa.26380) \| [pdf](/assets/pdf/papers/Le_MassCount_2026.pdf)
 - **Le, K. N.**, & Barner, D. (2026). The role of epistemic reasoning in mutual exclusivity inferences. _Journal of Experimental Child Psychology, 266_, 106487. [publisher](https://doi.org/10.1016/j.jecp.2026.106487) \| [pdf](/assets/pdf/papers/LeBarner_Mutual_Exclusivity_2026.pdf)
